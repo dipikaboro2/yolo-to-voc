@@ -1,8 +1,8 @@
 # YOLO to PASCAL VOC
 
-Converting YOLO formats to Pascal VOC format.
+This repository contains python scripts for converting YOLO formats to Pascal VOC format. There are scripts to verify the conversion. You can also visualize both YOLO and PASCAL VOC annotations with the provided codes.
 
-### Sample images with bboxes
+### Sample images with YOLO and PASCAL VOC bboxes
 <table>
   <tr>
     <td> <img src="yolo-annotation-images/YOLO Annotations_zebras.png" alt="yolo-elephants" ></td>
@@ -14,7 +14,7 @@ Converting YOLO formats to Pascal VOC format.
   </tr>
 </table>
 
-### Programs
+### Usage
 
 For converting YOLO annotations to PASCAL VOC format
 ```
