@@ -1,2 +1,2 @@
-# yolo-to-Pascalvoc
+# YOLO-to-Pascalvoc
 Converting YOLO formats to Pascal VOC format.
