@@ -9,8 +9,8 @@ Converting YOLO formats to Pascal VOC format.
     <td> <img src="yolo-annotation-images/YOLO Annotations_zebras.png" alt="yolo-elephants" ></td>
    </tr> 
    <tr>
-      <td><i>Medford, MA: I-93, near Exit 21.</i> (https://maps.app.goo.gl/muLRTy4BFLoJyUoj7) </td>
-      <td><i>Danvers, MA: I-93, near Exit 10.</i> (https://maps.app.goo.gl/j4ysifxbs8VmehxP6) </td>
+      <td>PASCAL VOC annotation</td>
+      <td>YOLO annotation </td>
   </tr>
 </table>
 
