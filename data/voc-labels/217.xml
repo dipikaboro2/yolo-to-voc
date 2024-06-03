@@ -1,0 +1,1 @@
+<annotation><folder /><filename>217.jpg</filename><source><database /></source><size><width>1012</width><height>937</height><depth>3</depth></size><segmented>0</segmented><object><name>Zebra</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>87</xmin><ymin>34</ymin><xmax>882</xmax><ymax>855</ymax></bndbox></object></annotation>

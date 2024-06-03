@@ -1,0 +1,1 @@
+<annotation><folder /><filename>001.jpg</filename><source><database /></source><size><width>800</width><height>411</height><depth>3</depth></size><segmented>0</segmented><object><name>Buffalo</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>201</xmin><ymin>139</ymin><xmax>695</xmax><ymax>405</ymax></bndbox></object></annotation>
