@@ -9,8 +9,8 @@ Converting YOLO formats to Pascal VOC format.
     <td> <img src="yolo-annotation-images/YOLO Annotations_zebras.png" alt="yolo-elephants" ></td>
    </tr> 
    <tr>
-      <td>PASCAL VOC annotation</td>
-      <td>YOLO annotation </td>
+      <td> <p align="center"> PASCAL VOC annotation </p> </td>
+      <td> <p align="center"> YOLO annotation </p> </td>
   </tr>
 </table>
 
