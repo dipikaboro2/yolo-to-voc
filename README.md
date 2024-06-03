@@ -5,7 +5,6 @@ Converting YOLO formats to Pascal VOC format.
 ### Sample images with bboxes
 <table>
   <tr>
-    
     <td> <img src="yolo-annotation-images/YOLO Annotations_zebras.png" alt="yolo-elephants" ></td>
     <td> <img src="voc-annotation-images/VOC-zebras.png"  alt="voc-elephant" ></td>
    </tr> 
